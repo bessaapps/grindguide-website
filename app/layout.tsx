@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GrindGuide",
+  title: "GrindGuide s",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
